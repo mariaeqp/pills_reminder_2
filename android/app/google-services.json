@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "10702431668",
+    "project_id": "pillsreminder-marieqp",
+    "storage_bucket": "pillsreminder-marieqp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10702431668:android:e10c63d5440e37691dbee1",
+        "android_client_info": {
+          "package_name": "br.com.pillsreminder.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10702431668-ju7ml0ig6ckdh3o286lbbjq8m3n6e4os.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnp6gOmaOLbMDpNyIt6WGIhOwWpO68v-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10702431668-ju7ml0ig6ckdh3o286lbbjq8m3n6e4os.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
